@@ -38,9 +38,7 @@ body{
         display: flex;
         
     }
-        h1{
-            display:none;
-        }
+      
         .top-logo{
             width:150px;
         }
@@ -102,7 +100,7 @@ body{
 
                     
                 }
-                        .sec-1 h2{
+                        .sec-1 h1{
                             font-size: 2rem;
                             font-family:Raleway700;
                             line-height: 1.4;
